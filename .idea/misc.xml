@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout-ar/activity_main.xml" value="0.15353260869565216" />
+        <entry key="app/src/main/res/layout-da/activity_main.xml" value="0.15353260869565216" />
+        <entry key="app/src/main/res/layout-en-land/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-en/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-es/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.18456078083407276" />
+        <entry key="app/src/main/res/layout-myn/activity_main.xml" value="0.15353260869565216" />
+        <entry key="app/src/main/res/layout-ps/activity_main.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1503623188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">PracticeMobile</string>
+    <string name="description">
+        La France, officiellement la République française (français : République française), est un
+        pays transcontinental couvrant l\'Europe occidentale et les régions et territoires
+        d\'outre-mer des Amériques et des océans Atlantique, Pacifique et Indien. Son aire
+        métropolitaine s\'étend du Rhin à l\'océan Atlantique et de la mer Méditerranée à la Manche et
+        à la mer du Nord ; les territoires d\'outre-mer comprennent la Guyane française en Amérique
+        du Sud, Saint Pierre et Miquelon dans l\'Atlantique Nord, l\'Ouest français
+    </string>
+</resources>
